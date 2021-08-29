@@ -25,6 +25,7 @@ The motivation behind this project is to learn and demonstrate HTML, CSS and Jav
 ![image](./screenshots/screenshot-5.png)
 ![image](./screenshots/screenshot-6.png)
 ![image](./screenshots/screenshot-7.png)
+![image](./screenshots/screenshot-8.png)
 
 
 ### Website Contents: ###
