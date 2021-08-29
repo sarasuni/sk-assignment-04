@@ -1,0 +1,94 @@
+#wrapper {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left:33%;
+    top:20%;
+}
+
+#startTime {
+    background-color:teal;
+    margin-left: 30%;
+    padding: 12px 25px;
+    font-size: 20px;
+    color: white;
+   border-radius: 20px;
+}
+
+#questionsDiv {
+    margin:25px;
+   
+}
+
+#currentTime {
+    float:right;
+}
+
+#goBack {
+    background-color: teal;
+    position: relative;
+    padding: 12px;
+    font-size: 20px;
+    color: white;
+    margin-top: 10%;
+    margin-left:70px ;
+    width: auto;
+    border-radius: 20px;
+ }
+
+ #clear{
+    background-color: teal;
+    position: relative;
+    padding: 12px;
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 10px;
+
+ }
+
+ h1{
+     text-align: center;
+     color: teal;
+ }
+
+ li {
+     background-color: teal;
+     padding: 5px 15px;
+     margin-top: 10px;
+     color: white;
+     width: 45%;
+     font-size: 20px;
+     border-radius: 20px;
+     cursor: pointer; 
+     
+ }
+
+ label {
+    margin-right: 10px;
+    border-radius: 40px;
+
+}
+
+input {
+    margin-bottom: 20px;
+    width: 50%;
+    border: 1px solid gray;
+
+}
+
+#Submit {
+    background-color: teal;
+    margin-left: 35%;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+
+#scoreshistory {
+    margin-left: 22%;
+    text-align: center;
+}
