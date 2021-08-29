@@ -36,3 +36,4 @@ The motivation behind this project is to learn and demonstrate HTML, CSS and Jav
 5. At the end user can save initionals and scores and it can be viewed in the Score history page.
 
 Live deployed link:
+https://sarasuni.github.io/sk-assignment-04/
